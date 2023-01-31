@@ -292,3 +292,15 @@ https://epg.pw/stream/8852e4fbf1347a6c5bef4aad753c32f487ceeb2d5bbc4e18491c8e15a4
 https://epg.pw/stream/3c146435ef9d3b87ac146153a0b0dc96939c7a22fecb3399db5c85e9d72a975b.m3u8
 #EXTINF:-1 tvg-id=" " tvg-name="三立湾湾" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="港澳台",三立湾湾
 https://epg.pw/stream/a417125c2505ec55aad02ef93441ed6afcab1ae01e245efe80ca301f9a0f2dad.ctv
+#EXTINF:-1 tvg-id=" " tvg-name="卫视中文HD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="港澳台",卫视中文HD
+https://epg.pw/stream/c2969a511c779e899671d9f50484b7dd047cc2ef140796929815c5938cbf5edf.ctv
+#EXTINF:-1 tvg-id=" " tvg-name="緯來日本台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="港澳台",緯來日本台
+https://epg.pw/stream/a9390c4df175bed4af4888d5848e085d5bac2d54397ebd4a474e9ea61aab8989.m3u8
+#EXTINF:-1 tvg-id=" " tvg-name="好莱坞电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="国际",好莱坞电影台
+https://epg.pw/stream/5707f8622c69c0e72364e98d62f5abba1818458803fb7ad172eac1c858983f4e.m3u8
+#EXTINF:-1 tvg-id=" " tvg-name="中天综合台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="港澳台",中天综合台
+https://epg.pw/stream/4c3c400280fb3d1f5b27322fe4827f5ba43f09963e114b0973bea7b5a85f7d73.ctv
+#EXTINF:-1 tvg-id=" " tvg-name="东森洋片台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="港澳台",东森洋片台
+https://epg.pw/stream/53eccb6a54fd72f5319b4bf7f1e15c6408cac47701986cfa3b190022a4b4035a.m3u8
+#EXTINF:-1 tvg-id=" " tvg-name="东森新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="港澳台",东森新闻台
+https://epg.pw/stream/fb27c4c184b533932e001a443159a99ac6a42f3135d26c3bec7144858426ebbc.m3u8
