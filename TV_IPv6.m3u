@@ -306,3 +306,5 @@ https://epg.pw/stream/53eccb6a54fd72f5319b4bf7f1e15c6408cac47701986cfa3b190022a4
 https://epg.pw/stream/fb27c4c184b533932e001a443159a99ac6a42f3135d26c3bec7144858426ebbc.m3u8
 #EXTINF:-1 tvg-id=" " tvg-name="寰宇新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="港澳台",寰宇新闻台
 https://epg.pw/stream/091d490c2ec7d3ceaaf267084248668b8541c6ccb44bd9b12867031d1be09702.ctv
+#EXTINF:-1 tvg-id=" " tvg-name="中视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="港澳台",中视新闻台
+https://epg.pw/stream/a7206f7ca29a477866681c1d251f7586954676d4c8537d69b63084f6a629a4a9.m3u8
