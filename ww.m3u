@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1,中天新聞
+http://43.134.171.36:9000/jmsytb.m3u8?c=1
+#EXTINF:-1,台視新聞
+http://43.134.171.36:9000/jmsytb.m3u8?c=6
+#EXTINF:-1,中視新聞
+http://43.134.171.36:9000/jmsytb.m3u8?c=8
+#EXTINF:-1,東森新聞
+http://43.134.171.36:9000/jmsytb.m3u8?c=9
+#EXTINF:-1,東森財經
+http://43.134.171.36:9000/jmsytb.m3u8?c=12
+#EXTINF:-1,寰宇新聞
+http://43.134.171.36:9000/jmsytb.m3u8?c=15
+#EXTINF:-1,三立 iNEWS
+http://43.134.171.36:9000/jmsytb.m3u8?c=17
