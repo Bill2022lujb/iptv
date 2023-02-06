@@ -326,3 +326,5 @@ https://cdn.hklive.tv/xxxx/85/index.m3u8
 https://cdn.hklive.tv/xxxx/99/index.m3u8
 #EXTINF:-1 tvg-id="96" tvg-name="ViuTV Six" tvg-logo="https://live.hkanime.com.hk/png_logo/96.png" group-title="港澳台",ViuTV Six
 https://cdn.hklive.tv/xxxx/96/index.m3u8
+#EXTINF:-1 tvg-id=" " tvg-name="中视HD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="港澳台",中视HD
+https://epg.pw/stream/1b9e07cd88fe95c2c3ddc48a8c881e700327db468f9a23050d668b109c17fe17.ctv
