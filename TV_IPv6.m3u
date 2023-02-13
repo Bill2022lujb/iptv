@@ -326,3 +326,5 @@ https://cdn.hklive.tv/xxxx/96/index.m3u8
 https://epg.pw/stream/cf0fbef52dbece0396bc1f9bbacba1bab84204ec76303803c67c0226e246161a.ctv
 #EXTINF:-1,中天新聞
 http://43.134.171.36:9000/jmsytb.m3u8?c=1
+#EXTINF:-1 tvg-id="100" tvg-name="淘电影" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="卫视",北京淘电影 
+https://epg.pw/stream/6dbbe49f3ed06abbe50c361d5d1d733c813a71b81af9c807f16e4b1d87c7599d.m3u8
