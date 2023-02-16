@@ -290,14 +290,7 @@ http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225623/index.m3
 http://43.134.171.36:9000/jmsytb.m3u8?c=17
 #EXTINF:-1 tvg-id=" " tvg-name="台視新聞" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="港澳台",台視新聞
 http://43.134.171.36:9000/jmsytb.m3u8?c=6
-#EXTINF:-1 tvg-id=" " tvg-name="緯來日本台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="港澳台",緯來日本台
-https://epg.pw/stream/a9390c4df175bed4af4888d5848e085d5bac2d54397ebd4a474e9ea61aab8989.m3u8
-#EXTINF:-1 tvg-id=" " tvg-name="好莱坞电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="国际",好莱坞电影台
-https://epg.pw/stream/5707f8622c69c0e72364e98d62f5abba1818458803fb7ad172eac1c858983f4e.m3u8
-#EXTINF:-1 tvg-id=" " tvg-name="中天综合台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="港澳台",中天综合台
-https://epg.pw/stream/4c3c400280fb3d1f5b27322fe4827f5ba43f09963e114b0973bea7b5a85f7d73.ctv
-#EXTINF:-1 tvg-id=" " tvg-name="东森洋片台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="港澳台",东森洋片台
-https://epg.pw/stream/53eccb6a54fd72f5319b4bf7f1e15c6408cac47701986cfa3b190022a4b4035a.m3u8
+
 #EXTINF:-1 tvg-id=" " tvg-name="东森新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="港澳台",东森新闻台
 http://43.134.171.36:9000/jmsytb.m3u8?c=9
 #EXTINF:-1 tvg-id=" " tvg-name="寰宇新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="港澳台",寰宇新闻台
