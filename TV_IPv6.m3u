@@ -286,11 +286,11 @@ http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225767/index.m3
 #EXTINF:-1 group-title="江西移动IPV6",NewTV超级电影 4M1080
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225623/index.m3u8
 #EXTINF:-1 tvg-id=" " tvg-name="三立新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="港澳台",三立新闻
-https://epg.pw/stream/a1efcf432e36749996821e42045f1f4805d9c282059afb50091e9a0a731c387a.ctv
+https://epg.pw/stream/97b394052f3caf433edc470760be8cfb4206fc55baebaca724e71aab528096c2.ctv
 #EXTINF:-1 tvg-id=" " tvg-name="三立iNEWS HD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="港澳台",三立iNEWS
-http://43.134.171.36:9000/jmsytb.m3u8?c=17
-#EXTINF:-1 tvg-id=" " tvg-name="民視新聞" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="港澳台",民視新聞
-https://epg.pw/stream/0521c21fc3e179714e98b5afd17fb291b6f8050b3fcca6f817866ec39087471b.ctv
+https://epg.pw/stream/f004d6bb4a3817e2485c9234c40fad2a411d6a5212b12167777c0d9be7efa99c.m3u8
+#EXTINF:-1 tvg-id=" " tvg-name="TVB HD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="港澳台",TVB HD
+https://epg.pw/stream/d6f396db134f4d641929bf2ee638663d7660a7fbdc16f4ae9939715d8b4ba2e5.ctv
 #EXTINF:-1 tvg-id=" " tvg-name="镜新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="港澳台",镜新闻
 https://epg.pw/stream/a8563a00d24366b65c4c7106505b349bb0680e4d978e910945879bb4b8b3548a.ctv
 #EXTINF:-1 tvg-id=" " tvg-name="寰宇新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="港澳台",寰宇新闻台
