@@ -288,17 +288,17 @@ http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225623/index.m3
 #EXTINF:-1 tvg-id=" " tvg-name="三立新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="港澳台",三立新闻
 https://epg.pw/stream/97b394052f3caf433edc470760be8cfb4206fc55baebaca724e71aab528096c2.ctv
 #EXTINF:-1 tvg-id=" " tvg-name="三立iNEWS HD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="港澳台",三立iNEWS
-https://epg.pw/stream/f004d6bb4a3817e2485c9234c40fad2a411d6a5212b12167777c0d9be7efa99c.m3u8
-#EXTINF:-1 tvg-id=" " tvg-name="TVB HD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="港澳台",TVB HD
-https://epg.pw/stream/d6f396db134f4d641929bf2ee638663d7660a7fbdc16f4ae9939715d8b4ba2e5.ctv
+http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
+#EXTINF:-1 tvg-id=" " tvg-name="TVB 新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="港澳台",TVB 新闻
+http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
 #EXTINF:-1 tvg-id=" " tvg-name="镜新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="港澳台",镜新闻
-https://epg.pw/stream/a8563a00d24366b65c4c7106505b349bb0680e4d978e910945879bb4b8b3548a.ctv
+http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 #EXTINF:-1 tvg-id=" " tvg-name="寰宇新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="港澳台",寰宇新闻台
-http://43.134.171.36:9000/jmsytb.m3u8?c=15
+http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 #EXTINF:-1 tvg-id=" " tvg-name="中视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="港澳台",中视新闻台
-http://43.134.171.36:9000/jmsytb.m3u8?c=8
+http://38.64.72.148:80/hls/modn/list/4008/chunklist0.m3u8
 #EXTINF:-1 tvg-id="77" tvg-name="香港開電視" tvg-logo="https://live.hkanime.com.hk/png_logo/77.png" group-title="港澳台",香港開電視
-https://cdn.hklive.tv/xxxx/77/index.m3u8
+http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 #EXTINF:-1 tvg-id="76" tvg-name="香港國際財經台" tvg-logo="https://live.hkanime.com.hk/png_logo/76.png" group-title="港澳台",香港國際財經台
 https://cdn.hklive.tv/xxxx/76/index.m3u8
 #EXTINF:-1 tvg-id="81" tvg-name="翡翠台" tvg-logo="https://live.hkanime.com.hk/png_logo/81.png" group-title="港澳台",翡翠台
@@ -311,10 +311,10 @@ https://cdn.hklive.tv/xxxx/83/index.m3u8
 https://cdn.hklive.tv/xxxx/84/index.m3u8
 #EXTINF:-1 tvg-id="85" tvg-name="無綫財經·資訊台" tvg-logo="https://live.hkanime.com.hk/png_logo/85.png" group-title="港澳台",無綫財經·資訊台
 https://cdn.hklive.tv/xxxx/85/index.m3u8
-#EXTINF:-1 tvg-id="99" tvg-name="ViuTV" tvg-logo="https://live.hkanime.com.hk/png_logo/99.png" group-title="港澳台",ViuTV
-https://epg.pw/stream/fcf95dd8bb482a2b4835c20e918e735ab502980124329b404d78151789405d52.m3u8
+#EXTINF:-1 tvg-id="99" tvg-name="新加坡中文台" tvg-logo="https://live.hkanime.com.hk/png_logo/99.png" group-title="港澳台",新加坡中文台
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 #EXTINF:-1 tvg-id="96" tvg-name="ViuTV Six" tvg-logo="https://live.hkanime.com.hk/png_logo/96.png" group-title="港澳台",ViuTV Six
-https://epg.pw/stream/d085a09b78401c40e841baa8891a518db52f504f098b214af464e87b3d9b9f97.ctv
+http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="96" tvg-name="TVB新闻台" tvg-logo="https://live.hkanime.com.hk/png_logo/96.png" group-title="港澳台",TVB新闻台
 https://epg.pw/stream/cf0fbef52dbece0396bc1f9bbacba1bab84204ec76303803c67c0226e246161a.ctv
 #EXTINF:-1,中天新聞
