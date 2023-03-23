@@ -343,3 +343,11 @@ http://111.20.40.170/PLTV/88888893/224/3221226352/index.m3u8
 http://221.179.217.76/PLTV/88888888/224/3221226550/1.m3u8
 #EXTINF:-1 tvg-name="4K超高清电影" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/4kcgq.png" group-title="4K频道",4K超高清电影
 http://159.75.85.63:5681/sxg.php
+#EXTINF:-1 tvg-name="新加坡中文台" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/aishang4k.png" group-title="海外",新加坡中文台
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+#EXTINF:-1 tvg-name="咪咕体育-4K" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/aishang4k.png" group-title="数字",咪咕体育-4K
+http://117.136.156.66:80/000000001000/3000000010000005180/index.m3u8
+#EXTINF:-1 tvg-name="南京新闻综合" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/aishang4k.png" group-title="数字",南京新闻综合
+http://live.nbs.cn/channels/njtv/xwzh/500k.m3u8?zjiangsd
+#EXTINF:-1 tvg-name="南京十八频道" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/aishang4k.png" group-title="数字",南京十八频道
+http://live.nbs.cn/channels/njtv/sbpd/500k.m3u8?zjiangsd
