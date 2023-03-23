@@ -303,8 +303,8 @@ http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 https://cdn.hklive.tv/xxxx/76/index.m3u8
 #EXTINF:-1 tvg-id="81" tvg-name="翡翠台" tvg-logo="https://live.hkanime.com.hk/png_logo/81.png" group-title="港澳台",翡翠台
 https://cdn.hklive.tv/xxxx/81/index.m3u8
-#EXTINF:-1 tvg-id="82" tvg-name="J2台" tvg-logo="https://live.hkanime.com.hk/png_logo/82.png" group-title="港澳台",J2台
-https://cdn.hklive.tv/xxxx/82/index.m3u8
+#EXTINF:-1 tvg-id="82" tvg-name="民视" tvg-logo="https://live.hkanime.com.hk/png_logo/82.png" group-title="港澳台",民视
+rtmp://119.81.124.89/sat/tv051
 #EXTINF:-1 tvg-id="83" tvg-name="無綫新聞台" tvg-logo="https://live.hkanime.com.hk/png_logo/83.png" group-title="港澳台",無綫新聞台
 https://cdn.hklive.tv/xxxx/83/index.m3u8
 #EXTINF:-1 tvg-id="84" tvg-name="明珠台" tvg-logo="https://live.hkanime.com.hk/png_logo/84.png" group-title="港澳台",明珠台
@@ -329,6 +329,10 @@ http://tc-tct.douyucdn2.cn/dyliveflv1/85894rmovieChow_2000.flv?wsAuth=7d054e0418
 http://tc-tct.douyucdn2.cn/dyliveflv1/122402rK7MO9bXSq_2000.flv?wsAuth=8cea39337984fd3341cc9ec569502e4f&token=cpn-androidmpro-0-122402-0fcea45d2300cfa0ac75fafd8679bb53af10de8c33ae99d9&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=p
 #EXTINF:-1 tvg-id="100" tvg-name="斗鱼电影4" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="电影",斗鱼电影4 
 http://tc-tct.douyucdn2.cn/dyliveflv3/3637726rQLDdfto7_2000.flv?wsAuth=04a634b362e78e56af2bddde662c48c2&token=cpn-androidmpro-0-3637726-a97a3241d761383449992d5fe9f8adeb51c664499750bb31&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=
+#EXTINF:-1 tvg-id="100" tvg-name="斗鱼娱乐" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="电影",斗鱼娱乐
+http://epg.112114.xyz/douyu/131977
+#EXTINF:-1 tvg-id="100" tvg-name="斗鱼电影5" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="电影",斗鱼电影5
+http://epg.112114.xyz/douyu/747764
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/EA0DA749-7DA9-420C-A40A-EE49E75B1C37.png" group-title="4K频道",Sport5 4k
 http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:c0:0f:95&stream=59033&extension=ts&play_token=h3Jb2BBUAL
 #EXTINF:-1 tvg-name="河南4K" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/hn4k.png" group-title="4K/8K-IPV6",河南4K
