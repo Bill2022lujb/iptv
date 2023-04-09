@@ -251,6 +251,8 @@ https://live.v1.mk/api/bestv.php?id=xsjhd8m/8000000
 https://live.v1.mk/api/bestv.php?id=dycjhd8m/8000000
 #EXTINF:-1,tvg-id="SITV劲爆体育" tvg-name="SITV劲爆体育" tvg-logo="https://epg.112114.xyz/logo/SITV劲爆体育.png" group-title="其他",劲爆体育 8M
 https://live.v1.mk/api/bestv.php?id=jbtyhd8m/8000000
+#EXTINF:-1,tvg-id="超级体育" tvg-name="超级体育" tvg-logo="https://epg.112114.xyz/logo/超级体育.png" group-title="其他",超级体育 8M
+https://epg.pw/stream/11eb653438ad9a9cffbdf74eb6f405b7a586b7b9bec223e768aa1e81ac42a08d.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="NEWTV超级电视剧" tvg-logo="https://epg.112114.xyz/logo/NEWTV超级电视剧.png" group-title="NEWTV",超级电视剧
 http://39.135.138.58:18890/PLTV/88888888/224/3221225625/index.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="NEWTV古装剧场" tvg-logo="https://epg.112114.xyz/logo/NEWTV古装剧场.png" group-title="NEWTV",古装剧场
