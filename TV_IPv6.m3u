@@ -297,10 +297,10 @@ http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225716/index.m3
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225767/index.m3u8
 #EXTINF:-1 group-title="江西移动IPV6",NewTV超级电影 4M1080
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225623/index.m3u8
-#EXTINF:-1 tvg-id=" " tvg-name="三立新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="港澳台",三立新闻
-https://epg.pw/stream/97b394052f3caf433edc470760be8cfb4206fc55baebaca724e71aab528096c2.ctv
-#EXTINF:-1 tvg-id=" " tvg-name="三立iNEWS HD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="港澳台",三立iNEWS
-http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
+#EXTINF:-1 tvg-id=" " tvg-name="俄罗斯中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="海外",俄罗斯中文
+http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id=" " tvg-name="ABC新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="海外",ABC新闻
+http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist_b1300000.m3u8
 #EXTINF:-1 tvg-id=" " tvg-name="TVB 新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="港澳台",TVB 新闻
 http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
 #EXTINF:-1 tvg-id=" " tvg-name="镜新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="港澳台",镜新闻
@@ -361,8 +361,10 @@ http://221.179.217.76/PLTV/88888888/224/3221226550/1.m3u8
 http://159.75.85.63:5681/sxg.php
 #EXTINF:-1 tvg-name="新加坡中文台" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/aishang4k.png" group-title="海外",新加坡中文台
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-#EXTINF:-1 tvg-name="咪咕体育-4K" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/aishang4k.png" group-title="数字",咪咕体育-4K
-http://117.136.156.66:80/000000001000/3000000010000005180/index.m3u8
+#EXTINF:-1 tvg-logo="https://zuiai.tv/zb_users/upload/2021/1/2021013185584449.jpg" group-title="4K频道",咪咕直播-4K-1
+http://39.136.33.66:6610/000000001001/3000000010000005180/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://zuiai.tv/zb_users/upload/2021/1/2021013185584449.jpg" group-title="4K频道",咪咕直播-4K-2
+http://39.136.33.66:6610/000000001001/3000000010000015686/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="南京新闻综合" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/aishang4k.png" group-title="数字",南京新闻综合
 http://live.nbs.cn/channels/njtv/xwzh/500k.m3u8?zjiangsd
 #EXTINF:-1 tvg-name="南京十八频道" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/aishang4k.png" group-title="数字",南京十八频道
