@@ -101,7 +101,7 @@ http://[2409:8087:2001:20:2800:0:df6e:eb08]/wh7f454c46tw2087544744_109645303/ott
 http://[2409:8087:4402:20:1:1216:401:2f]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226586/index.m3u8
 #EXTINF:-1 tvg-name="重庆卫视" group-title="IPV6•卫视",重庆卫视「IPV6」•支持回看
 http://[2409:8087:4402:20:1:1216:401:15]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226676/index.m3u8
-#EXTINF:-1 tvg-name="null" group-title="IPV6•卫视",龙江卫视「IPV6」
+#EXTINF:-1 tvg-name="龙江卫视" group-title="IPV6•卫视",龙江卫视「IPV6」
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225690/index.m3u8
 #EXTINF:-1 tvg-name="甘肃卫视" group-title="IPV6•卫视",甘肃卫视「IPV6」•支持回看
 http://[2409:8087:2001:20:2800:0:df6e:eb1a]/wh7f454c46tw1400573680_-1979013462/ott.mobaibox.com/PLTV/3/224/3221227568/index.m3u8
