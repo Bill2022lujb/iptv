@@ -35,6 +35,8 @@ http://live.cooltv.top/tv/aishang.php?id=cctv15hd
 http://live.cooltv.top/tv/aishang.php?id=cctv16hd
 #EXTINF:-1 ,CCTV-16 奥林匹克4K
 http://live.cooltv.top/tv/aishang.php?id=cctv164k
+#EXTINF:-1 tvg-id="100" tvg-name="斗鱼电影8" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="电影",斗鱼电影8
+https://www.goodiptv.club/douyu/9249162
 #EXTINF:-1 tvg-id="100" tvg-name="斗鱼电影7" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="电影",斗鱼电影7 
 http://tc-tct.douyucdn2.cn/dyliveflv1a/20415rnWbjg6Ex1K.flv?wsAuth=5098901b40bc7b87b4eed18509f89245&token=cpn-androidmpro-0-20415-b6774b3b3249db178d68e54e4be54bf1ca391679b3fb2ffa&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
 #EXTINF:-1 tvg-id="100" tvg-name="斗鱼电影6" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="电影",斗鱼电影6 
