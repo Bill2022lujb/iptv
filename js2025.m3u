@@ -38,9 +38,9 @@ http://192.168.50.120:4022/rtp/239.49.8.52:9810
 
 #EXTINF:-1 group-title="卫视频道HD",江苏卫视HD 
 http://192.168.50.120:4022/rtp/239.49.8.16:9602
-#EXTINF:-1,group-title="卫视频道HD",江苏城市HD
+#EXTINF:-1 group-title="卫视频道HD",江苏城市HD
 http://192.168.50.120:4022/rtp/239.49.8.107:8000
-#EXTINF:-1,group-title="卫视频道HD",江苏综艺HD 
+#EXTINF:-1 group-title="卫视频道HD",江苏综艺HD 
 http://192.168.50.120:4022/rtp/239.49.8.108:8000
 #EXTINF:-1,group-title="卫视频道HD",江苏体育休闲HD
 http://192.168.50.120:4022/rtp/239.49.8.117:8000
