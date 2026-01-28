@@ -154,4 +154,26 @@ http://192.168.50.120:4022/rtp/239.49.8.100:8000
 #EXTINF:-1 group-title="地方频道",江苏省城市足球联赛6
 http://192.168.50.120:4022/rtp/239.49.8.101:8000
 
+#EXTINF:-1 tvg-name="CCTV16-4K(SDR)" tvg-id="491606" tvg-chno="500" group-title="4K" tvg-logo="https://tb.zbds.top/logo/CCTV164K.png",CCTV16-4K(SDR)
+rtp://239.49.0.109:8000?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-name="江苏卫视4K(SDR)" tvg-id="464614" tvg-chno="501" group-title="4K" tvg-logo="https://tb.zbds.top/logo/江苏卫视.png",江苏卫视4K(SDR)
+rtp://239.49.1.61:8000?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-name="北京卫视4K" tvg-id="464608" tvg-chno="502" group-title="4K" tvg-logo="https://tb.zbds.top/logo/北京卫视4K.png",北京卫视4K
+rtp://239.49.0.42:8000?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-name="广东卫视4K(SDR)" tvg-id="464615" tvg-chno="504" group-title="4K" tvg-logo="https://tb.zbds.top/logo/广东卫视4K.png",广东卫视4K(SDR)
+rtp://239.49.1.24:8000?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-name="深圳卫视4K(SDR)" tvg-id="464630" tvg-chno="506" group-title="4K" tvg-logo="https://tb.zbds.top/logo/深圳卫视4K.png",深圳卫视4K(SDR)
+rtp://239.49.1.27:8000?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-name="浙江卫视4K(SDR)" tvg-id="464613" tvg-chno="508" group-title="4K" tvg-logo="https://tb.zbds.top/logo/浙江卫视.png",浙江卫视4K(SDR)
+rtp://239.49.1.63:8000?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-name="四川卫视4K(SDR)" tvg-id="464631" tvg-chno="510" group-title="4K" tvg-logo="https://tb.zbds.top/logo/四川卫视.png",四川卫视4K(SDR)
+rtp://239.49.1.65:8000?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-name="湖南卫视4K(SDR)" tvg-id="464611" tvg-chno="512" group-title="4K" tvg-logo="https://tb.zbds.top/logo/湖南卫视.png",湖南卫视4K(SDR)
+rtp://239.49.1.67:8000?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-name="东方卫视4K(SDR)" tvg-id="464610" tvg-chno="514" group-title="4K" tvg-logo="https://tb.zbds.top/logo/东方卫视.png",东方卫视4K(SDR)
+rtp://239.49.1.69:8000?fcc=180.100.72.185:15970
+#EXTINF:-1 tvg-name="山东卫视4K(SDR)" tvg-id="464612" tvg-chno="516" group-title="4K" tvg-logo="https://tb.zbds.top/logo/山东卫视.png",山东卫视4K(SDR)
+rtp://239.49.1.71:8000?fcc=180.100.72.185:15970
+
+
 
